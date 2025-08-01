@@ -1,0 +1,245 @@
+,AGE,GENDER,MARITAL_STATUS,OCCUPATION,MONTHLY_INCOME,EDUCATIONAL_QUALIFICATIONS,FAMILY_SIZE,OUTPUT,FEEDBACK
+0,20,Female,Single,Student,No Income,PG,4,1,1
+1,24,Female,Single,Student,Below Rs.10000,GRAD,3,1,1
+2,22,Male,Single,Student,Below Rs.10000,PG,3,1,0
+3,22,Female,Single,Student,No Income,GRAD,6,1,1
+4,22,Male,Single,Student,Below Rs.10000,PG,4,1,1
+5,27,Female,Married,Employee,More than 50000,PG,2,1,1
+6,22,Male,Single,Student,No Income,GRAD,3,1,1
+7,24,Female,Single,Student,No Income,PG,3,1,1
+8,23,Female,Single,Student,No Income,PG,2,1,1
+9,23,Female,Single,Student,No Income,PG,4,1,1
+10,22,Female,Single,Student,No Income,PG,5,1,1
+11,23,Male,Single,Student,Below Rs.10000,PG,2,1,0
+12,23,Male,Single,Student,No Income,PG,5,1,1
+13,21,Male,Single,Student,No Income,GRAD,4,1,1
+14,23,Female,Single,Self Employeed,10001 to 25000,PG,5,1,1
+15,24,Female,Single,Student,No Income,PG,6,1,1
+16,28,Female,Single,Employee,25001 to 50000,PG,2,1,1
+17,23,Female,Single,Student,No Income,GRAD,3,1,0
+18,25,Male,Single,Student,No Income,GRAD,4,1,0
+19,21,Female,Single,Student,Below Rs.10000,PG,1,1,1
+20,24,Male,Single,Student,No Income,PG,3,1,1
+21,22,Male,Single,Student,No Income,PG,4,1,1
+22,22,Female,Single,Student,No Income,GRAD,4,1,1
+23,23,Male,Single,Student,No Income,GRAD,4,1,1
+24,21,Male,Single,Student,Below Rs.10000,PG,3,1,1
+25,25,Male,Single,Student,No Income,PG,3,1,1
+27,22,Male,Single,Student,No Income,PG,3,1,1
+28,23,Female,Single,Employee,10001 to 25000,GRAD,3,1,1
+30,22,Female,Single,Employee,10001 to 25000,GRAD,5,1,1
+32,25,Male,Married,Employee,More than 50000,PH.D,4,1,1
+33,22,Female,Single,Student,10001 to 25000,PG,5,1,1
+34,22,Female,Single,Student,No Income,PG,2,1,1
+35,25,Male,Single,Student,10001 to 25000,PG,3,1,1
+36,25,Male,Single,Student,No Income,PG,5,0,1
+37,32,Female,Prefer not to say,House wife,No Income,GRAD,5,1,0
+38,23,Female,Single,Student,No Income,PG,3,1,1
+40,30,Male,Married,Self Employeed,More than 50000,UNEDU,4,1,0
+41,23,Male,Single,Student,No Income,GRAD,3,1,1
+42,23,Male,Single,Student,No Income,PG,4,1,1
+44,22,Male,Single,Student,No Income,GRAD,5,1,1
+45,27,Female,Married,Self Employeed,10001 to 25000,PG,2,1,1
+47,23,Male,Single,Student,No Income,PG,2,1,1
+50,23,Female,Single,Student,No Income,GRAD,5,1,1
+53,25,Male,Single,Student,No Income,PG,2,1,1
+55,28,Female,Married,Student,No Income,GRAD,2,1,1
+56,22,Female,Single,Student,No Income,PG,1,1,1
+57,24,Female,Single,Student,No Income,GRAD,3,1,1
+58,31,Male,Married,Employee,More than 50000,PH.D,5,1,1
+59,25,Male,Single,Student,No Income,PG,4,1,1
+62,23,Male,Single,Student,25001 to 50000,PG,1,1,1
+65,25,Male,Single,Student,No Income,PG,6,1,1
+66,24,Male,Single,Employee,10001 to 25000,GRAD,4,1,1
+69,24,Female,Married,Employee,More than 50000,PH.D,4,1,1
+70,22,Male,Single,Student,No Income,GRAD,4,1,1
+71,24,Female,Single,Student,10001 to 25000,PG,3,0,1
+72,25,Female,Single,Student,No Income,PG,3,1,1
+74,26,Male,Single,Student,No Income,PG,4,1,1
+75,24,Female,Single,Student,25001 to 50000,PG,3,1,1
+78,22,Female,Single,Student,No Income,PG,3,1,1
+79,24,Male,Single,Student,No Income,PG,5,1,1
+80,24,Male,Single,Student,10001 to 25000,PG,4,1,1
+82,23,Male,Single,Student,No Income,PG,3,1,1
+85,24,Female,Single,Student,No Income,PG,4,1,1
+87,25,Male,Single,Student,No Income,GRAD,1,1,1
+89,28,Male,Married,Self Employeed,10001 to 25000,GRAD,2,0,0
+90,27,Female,Prefer not to say,Employee,25001 to 50000,PG,5,0,1
+91,26,Male,Single,Self Employeed,10001 to 25000,PH.D,1,0,1
+92,22,Male,Single,Student,No Income,PG,2,1,1
+94,23,Male,Single,Student,No Income,PG,1,1,1
+98,26,Male,Married,Employee,25001 to 50000,GRAD,5,0,1
+99,32,Female,Married,House wife,No Income,UNEDU,3,0,1
+102,22,Female,Single,Employee,10001 to 25000,GRAD,3,1,1
+103,24,Female,Single,Student,No Income,PH.D,3,1,1
+104,26,Male,Single,Employee,25001 to 50000,GRAD,2,1,0
+105,28,Male,Married,Employee,More than 50000,GRAD,3,0,1
+106,26,Male,Single,Employee,More than 50000,PG,2,0,1
+107,25,Male,Single,Student,No Income,PG,1,1,1
+108,25,Male,Single,Employee,Below Rs.10000,GRAD,2,0,1
+109,18,Male,Single,Student,No Income,GRAD,5,1,1
+110,21,Male,Single,Student,No Income,PG,4,1,1
+112,25,Male,Single,Student,Below Rs.10000,PG,2,1,1
+114,23,Male,Single,Employee,10001 to 25000,PG,2,1,1
+115,25,Female,Married,Employee,25001 to 50000,GRAD,4,0,0
+116,31,Female,Married,House wife,No Income,SCHOOL,5,1,1
+117,24,Male,Prefer not to say,Self Employeed,More than 50000,PH.D,2,0,1
+118,32,Female,Married,Employee,25001 to 50000,GRAD,5,1,1
+119,25,Male,Single,Employee,25001 to 50000,GRAD,3,1,1
+120,27,Female,Married,Self Employeed,More than 50000,GRAD,5,0,1
+121,26,Male,Single,Self Employeed,25001 to 50000,GRAD,3,1,1
+122,26,Female,Single,Self Employeed,25001 to 50000,PG,3,1,1
+123,32,Male,Married,Employee,More than 50000,PH.D,5,1,0
+124,24,Male,Married,Self Employeed,More than 50000,PH.D,6,0,0
+125,27,Female,Married,Self Employeed,25001 to 50000,GRAD,3,1,1
+130,28,Male,Married,Employee,More than 50000,PG,3,1,1
+131,32,Female,Married,Employee,More than 50000,GRAD,1,0,1
+133,19,Male,Single,Student,No Income,GRAD,2,0,0
+134,19,Female,Single,Student,No Income,GRAD,4,1,1
+135,27,Female,Married,Employee,25001 to 50000,PG,2,0,1
+136,25,Male,Single,Self Employeed,25001 to 50000,GRAD,3,1,1
+137,33,Male,Married,Employee,More than 50000,PH.D,5,0,0
+138,26,Female,Single,Employee,More than 50000,GRAD,3,1,1
+139,22,Female,Single,Student,Below Rs.10000,PG,4,1,1
+140,23,Male,Single,Student,No Income,PG,3,0,1
+141,22,Female,Single,Student,No Income,GRAD,3,1,0
+142,25,Male,Married,Employee,25001 to 50000,GRAD,2,1,1
+143,30,Female,Married,House wife,No Income,SCHOOL,5,1,1
+144,24,Male,Single,Student,No Income,PG,3,0,0
+145,25,Male,Single,Employee,10001 to 25000,PG,3,1,1
+146,23,Male,Single,Student,More than 50000,PG,3,1,1
+148,32,Male,Married,Employee,10001 to 25000,GRAD,4,1,1
+152,20,Male,Single,Student,No Income,GRAD,2,1,1
+153,21,Male,Single,Student,No Income,GRAD,2,1,1
+154,24,Female,Married,Self Employeed,10001 to 25000,GRAD,5,1,1
+156,25,Male,Single,Employee,25001 to 50000,PG,3,1,1
+157,32,Female,Married,House wife,No Income,GRAD,3,1,1
+158,27,Male,Married,Employee,More than 50000,PH.D,5,0,0
+159,20,Female,Single,Student,No Income,GRAD,2,1,1
+161,26,Male,Single,Employee,More than 50000,PG,3,0,0
+162,25,Male,Single,Employee,10001 to 25000,GRAD,4,1,1
+163,26,Male,Single,Employee,25001 to 50000,PG,3,1,1
+164,26,Female,Married,Employee,25001 to 50000,GRAD,3,1,1
+165,27,Male,Single,Employee,More than 50000,PH.D,4,0,1
+166,27,Female,Single,Student,No Income,PH.D,5,0,0
+167,24,Female,Single,Student,No Income,PG,5,1,1
+168,25,Male,Married,Self Employeed,More than 50000,SCHOOL,2,1,1
+169,20,Male,Single,Student,No Income,GRAD,2,0,0
+170,22,Male,Single,Student,No Income,PG,1,1,1
+171,26,Female,Married,Student,Below Rs.10000,PH.D,3,1,1
+172,27,Male,Prefer not to say,Employee,25001 to 50000,PG,1,1,1
+174,24,Male,Single,Employee,Below Rs.10000,GRAD,2,1,1
+175,23,Female,Single,Employee,10001 to 25000,GRAD,6,1,1
+176,22,Male,Single,Student,No Income,GRAD,2,0,1
+177,26,Male,Married,Self Employeed,More than 50000,PG,3,0,0
+178,26,Male,Single,Employee,Below Rs.10000,PG,1,1,0
+179,25,Female,Married,Self Employeed,25001 to 50000,PG,3,0,1
+180,29,Female,Married,Employee,More than 50000,GRAD,3,0,1
+181,23,Male,Single,Student,Below Rs.10000,GRAD,3,1,0
+182,22,Female,Single,Employee,25001 to 50000,GRAD,4,1,1
+184,32,Female,Married,House wife,No Income,SCHOOL,5,1,1
+185,28,Male,Married,Employee,More than 50000,PG,1,1,1
+187,25,Male,Single,Employee,10001 to 25000,GRAD,2,1,1
+188,26,Female,Married,Employee,25001 to 50000,PG,2,0,0
+189,31,Male,Married,Self Employeed,More than 50000,SCHOOL,6,1,1
+191,24,Male,Single,Employee,25001 to 50000,PG,2,1,1
+192,31,Female,Married,Employee,More than 50000,PH.D,5,1,1
+193,26,Male,Single,Employee,25001 to 50000,GRAD,2,1,1
+194,24,Female,Married,Self Employeed,More than 50000,GRAD,2,1,1
+195,22,Female,Single,Student,No Income,GRAD,3,1,1
+196,19,Male,Single,Student,No Income,GRAD,6,1,1
+197,25,Male,Married,Employee,More than 50000,PG,6,1,1
+198,23,Female,Married,House wife,No Income,SCHOOL,6,1,1
+199,23,Female,Single,Student,No Income,GRAD,2,0,0
+203,26,Male,Married,Employee,More than 50000,GRAD,4,1,1
+204,25,Female,Single,Student,No Income,PH.D,3,1,1
+206,29,Male,Married,Employee,25001 to 50000,GRAD,4,0,0
+207,23,Female,Single,Student,No Income,GRAD,1,1,1
+208,25,Male,Single,Self Employeed,More than 50000,GRAD,2,1,1
+209,29,Female,Married,Employee,25001 to 50000,GRAD,4,0,0
+210,27,Male,Married,Self Employeed,25001 to 50000,GRAD,6,0,0
+211,25,Male,Single,Self Employeed,10001 to 25000,GRAD,3,1,1
+212,21,Male,Single,Student,No Income,GRAD,2,0,0
+214,24,Female,Single,Employee,10001 to 25000,PG,4,1,1
+215,32,Male,Married,Self Employeed,10001 to 25000,SCHOOL,3,1,0
+216,28,Male,Married,Employee,25001 to 50000,PG,5,1,1
+217,26,Male,Single,Employee,10001 to 25000,GRAD,2,0,0
+218,31,Female,Married,House wife,No Income,GRAD,5,1,1
+220,21,Female,Single,Student,No Income,PG,1,1,1
+221,23,Female,Single,Student,No Income,GRAD,2,0,1
+222,26,Male,Married,Employee,10001 to 25000,GRAD,4,0,1
+223,32,Male,Married,Employee,More than 50000,GRAD,5,1,1
+224,25,Female,Married,Student,No Income,PG,2,1,1
+225,28,Male,Single,Self Employeed,10001 to 25000,PG,2,1,1
+226,21,Female,Single,Student,No Income,PG,3,1,1
+227,24,Male,Single,Student,No Income,PG,2,1,1
+228,26,Female,Married,Self Employeed,10001 to 25000,GRAD,5,0,0
+229,32,Male,Married,Employee,25001 to 50000,GRAD,3,1,1
+230,29,Male,Single,Self Employeed,More than 50000,GRAD,6,1,1
+231,21,Male,Single,Student,No Income,GRAD,5,1,1
+232,24,Female,Single,Self Employeed,25001 to 50000,PG,3,0,0
+233,26,Male,Prefer not to say,Self Employeed,More than 50000,PG,2,1,1
+234,25,Male,Married,Employee,More than 50000,PH.D,3,1,1
+235,29,Male,Single,Employee,25001 to 50000,GRAD,3,0,0
+237,24,Male,Single,Student,No Income,GRAD,2,1,1
+238,27,Male,Married,Employee,25001 to 50000,GRAD,2,1,1
+239,23,Female,Single,Student,No Income,PG,3,0,1
+240,32,Male,Married,Employee,More than 50000,PG,6,1,1
+241,22,Female,Single,Student,No Income,GRAD,2,1,1
+242,28,Male,Married,Employee,25001 to 50000,GRAD,3,1,1
+244,30,Male,Married,Self Employeed,More than 50000,GRAD,1,0,0
+245,21,Male,Single,Student,No Income,GRAD,3,1,1
+246,26,Female,Married,Employee,Below Rs.10000,GRAD,6,0,0
+247,25,Male,Single,Self Employeed,More than 50000,SCHOOL,3,1,1
+248,31,Male,Prefer not to say,Employee,Below Rs.10000,GRAD,1,0,0
+249,23,Female,Single,Employee,25001 to 50000,PG,2,1,1
+250,29,Female,Married,Employee,25001 to 50000,PH.D,3,1,1
+251,21,Male,Single,Student,No Income,GRAD,6,1,1
+252,20,Male,Single,Student,No Income,GRAD,3,1,1
+253,22,Male,Single,Employee,10001 to 25000,GRAD,2,1,1
+254,30,Female,Married,House wife,No Income,SCHOOL,6,0,1
+255,27,Male,Married,Self Employeed,More than 50000,GRAD,3,1,1
+256,23,Male,Single,Student,No Income,PG,2,0,0
+257,30,Male,Married,Self Employeed,25001 to 50000,SCHOOL,6,0,0
+259,28,Female,Married,Employee,25001 to 50000,PG,6,0,0
+260,30,Male,Married,Self Employeed,More than 50000,GRAD,6,1,1
+261,24,Female,Married,Employee,25001 to 50000,PG,2,1,0
+263,23,Female,Prefer not to say,Employee,10001 to 25000,GRAD,3,0,0
+264,25,Male,Married,Self Employeed,More than 50000,PG,4,1,1
+265,24,Female,Single,Employee,25001 to 50000,GRAD,2,1,1
+266,26,Male,Married,Employee,10001 to 25000,GRAD,3,0,0
+267,25,Female,Single,Employee,25001 to 50000,PG,2,1,1
+268,22,Male,Single,Student,25001 to 50000,GRAD,3,1,1
+269,26,Female,Single,Employee,25001 to 50000,PG,2,1,1
+270,23,Male,Single,Employee,10001 to 25000,GRAD,2,1,1
+271,21,Female,Single,Employee,Below Rs.10000,GRAD,2,0,0
+272,25,Male,Married,Self Employeed,25001 to 50000,GRAD,3,1,1
+273,24,Female,Married,Employee,10001 to 25000,PG,2,1,1
+274,22,Male,Married,Student,No Income,GRAD,2,1,1
+276,24,Male,Married,Employee,More than 50000,PG,3,1,1
+278,30,Male,Married,Employee,More than 50000,GRAD,5,0,0
+279,23,Female,Prefer not to say,Employee,10001 to 25000,GRAD,4,1,1
+281,21,Female,Single,Student,No Income,GRAD,2,1,1
+283,24,Female,Single,Employee,25001 to 50000,GRAD,3,1,1
+284,26,Female,Married,Employee,10001 to 25000,PG,2,0,1
+285,26,Female,Single,Student,No Income,PH.D,2,1,1
+286,25,Female,Single,Student,10001 to 25000,GRAD,2,1,1
+287,28,Female,Married,Employee,25001 to 50000,GRAD,5,0,0
+290,27,Female,Married,Self Employeed,More than 50000,GRAD,6,0,1
+291,25,Female,Married,Employee,25001 to 50000,GRAD,3,0,1
+292,24,Female,Single,Student,No Income,PG,5,0,0
+293,25,Female,Married,Employee,More than 50000,GRAD,1,0,0
+294,25,Female,Prefer not to say,Employee,25001 to 50000,PG,3,0,0
+295,24,Female,Married,Student,Below Rs.10000,PH.D,5,1,1
+297,22,Male,Single,Employee,10001 to 25000,GRAD,1,1,1
+298,28,Male,Single,Employee,25001 to 50000,PG,2,0,0
+299,25,Female,Single,Employee,More than 50000,PG,6,0,0
+321,21,Male,Married,Employee,More than 50000,PH.D,3,1,1
+337,27,Male,Married,Self Employeed,25001 to 50000,GRAD,6,0,1
+342,22,Male,Married,Self Employeed,10001 to 25000,SCHOOL,3,1,0
+352,29,Female,Married,Employee,25001 to 50000,GRAD,4,0,1
+355,21,Male,Single,Student,No Income,GRAD,2,0,1
+363,31,Male,Married,Employee,More than 50000,PH.D,3,1,1
+369,30,Male,Married,Employee,More than 50000,PG,6,1,1
+374,21,Male,Single,Student,No Income,GRAD,3,1,0
+386,23,Male,Single,Student,Below Rs.10000,PG,2,1,1
